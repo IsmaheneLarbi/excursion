@@ -19,7 +19,7 @@ h2 a{
   margin: 20px;
 }
 
-#slogan {
+#slogan, #announcement{
   color: white;
   font-weight: 300;
   font-size: 42px;
