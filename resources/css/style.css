@@ -29,3 +29,10 @@ h2 a{
   color: gray;
   font-size: 21px;
 }
+
+#tm{
+  color: gray;
+  font-weight: 300;
+  font-size: 21px;
+  text-align: right;
+}
